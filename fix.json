@@ -1,0 +1,22 @@
+{
+  "Fix": [
+    {
+      "normalized_Contractors": "sherpaconsultingllc",
+      "contractId": 5676896,
+      "AmountToPay": 7500000000,
+      "AmountToPay_new": 7500000
+    },
+    {
+      "normalized_Contractors": "malnatampasociadosinc",
+      "contractId": 5671799,
+      "AmountToPay": 1253000000,
+      "AmountToPay_new": 1253000
+    }
+  ],
+  "Drop": [
+    {
+      "normalized_Contractors": "sweetcorpinc",
+      "contractId": 5676259
+    }
+  ]
+}
