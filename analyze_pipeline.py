@@ -3,21 +3,16 @@ from unused.contracts_amount import count_rows
 
 #Runs all analysis
 
-#AllThem = False
-
 Governor = [
-"Fortuño",
-"Padilla", 
-"Rosello", 
-"Pierluisi(De_Facto)", 
-"Vazquez", 
-"Pierluisi", 
+#"Fortuño",
+#"Padilla", 
+#"Rosello", 
+#"Pierluisi(De_Facto)", 
+#"Vazquez", 
+#"Pierluisi", 
 "Gonzalez"
 ]
 
-
-DATE_FROM = ""
-DATE_TO = ""
 def gov(Governor):
     if Governor == "Fortuño":
         DATE_FROM = "2009-01-02"

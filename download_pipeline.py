@@ -13,7 +13,7 @@ yesterday = datetime.now() - timedelta(days=1)
 DDMM = yesterday.strftime("%d/%m")
 
 # Iterate through years and download contracts
-YEARS = range(2009, 2012)
+YEARS = range(2025, 2026)
 for y in YEARS:
     print(y)
     run_t(DDMM, y)
